@@ -23,4 +23,5 @@ void print alphabeth x10(void)
 
 		round++;
 	}
+	return (0);
 }
