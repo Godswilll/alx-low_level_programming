@@ -46,4 +46,4 @@ void rev_string(char *s)
 		half--;
 
 	}
-
+}
