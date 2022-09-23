@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print alphabeth x10(void)
+void print_alphabeth_x10(void)
 {
 	int round = 0;
 	char letter = 'a';
