@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 int tmp_prime(int n, int i);
 
@@ -42,8 +42,3 @@ int is_prime_number(int n)
 		return (divisors(3, n));
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privac
